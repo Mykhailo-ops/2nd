@@ -1,1 +1,35 @@
+header{
+    color:white;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+body{
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+    background-color: black;
+}
+main{
+    padding: 30px;
+    margin:60px;
+}
 
+
+a{
+    margin: 15px;
+    background-color: red;
+    border-radius: 10px;
+    border: 10px solid red;
+    color:yellow;
+    text-decoration: none;
+}
+footer{
+    color: red;
+}
+main img{
+    height: 270px;
+    width: 270px;
+}
+p{
+    height: 30px;
+}
